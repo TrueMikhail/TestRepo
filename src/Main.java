@@ -19,7 +19,5 @@ public class Main {
         };
         System.out.println(text.longestLine("g", "ghh", "sfddfsdfv", "ggggg"));
 
-        Operationable repeatN = (str, num) ->
-
     }
 }
